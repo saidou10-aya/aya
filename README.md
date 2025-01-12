@@ -42,6 +42,15 @@ Tout d'abord, on a  installer Django et créer un environnement virtuel pour nos
   
   ajout many-to-one relationship :
 
+![many to one](https://github.com/user-attachments/assets/735713b7-483d-4f29-a817-7124a47a5039)
+
+Créer un site d'administration pour les modèles : 
+Creating a superuser :
+
+
+ ajout modeles to administration-site 
+ 
+
 
   
 
