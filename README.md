@@ -33,6 +33,14 @@ Tout d'abord, on a  installer Django et créer un environnement virtuel pour nos
 
  apres on a activer l'application  :
 
+ ![active application 2](https://github.com/user-attachments/assets/18b02e4c-b6b3-4717-b189-baa1b8019004)
+
+   ajouter statuts filed : 
+
+   
+  
+  et aussi many to one relation ship
+
  
  
  
