@@ -60,9 +60,10 @@ Creating a superuser :
 
   product catalogue modeles :
 
-  
-Registering catalog models on the administration site
+  ![shop on](https://github.com/user-attachments/assets/4ce59359-0a25-4afc-a701-d754314ebfdf)
 
+  
+Enregistrement des modèles de catalogue sur le site d'administration 
 
 
 
