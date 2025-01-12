@@ -1,5 +1,6 @@
 # Descriptioin generale de nos projet dans  Django : 
-dans notre propre projet django on veut creer un site en ligne pour ventre des produits pharmacetique comme des medicament des chute des cheveux ; pommades traitment de peux on a choisier le coter cosmetique et notre propre produit est shoppoing des chutes des cheuveaux 
+Dans notre propre projet django on veut creer un site en ligne pour ventre des produits pharmacetique,comme des medicaments des chutes de cheveux ; pommades, traitment de peau...
+on a choisie le coter cosmetique et notre propre produit est shampoing des chutes des cheuveaux 
 
 # instalation de django : 
 Tout d'abord, on a  installer Django et créer un environnement virtuel pour nos  projet.
@@ -13,9 +14,9 @@ Tout d'abord, on a  installer Django et créer un environnement virtuel pour nos
 
   apres on creer  bloc de application ,dans  ce bloc on appliquer data base migration 
   
- creation une application  
+# creation une application  
  
- creation de poste modele ; on a ajouter data time filed
+ # creation de poste modele ; on a ajouter data time filed
 
 ![modeles](https://github.com/user-attachments/assets/ee05c2ae-7545-4590-964d-3bc3d01ecb19)
 
@@ -48,7 +49,7 @@ Créer un site d'administration pour les modèles :
 Creating a superuser :
 
 
- ajout modeles to administration-site 
+# ajout modeles to administration-site 
  
 ![photo_2025-01-12_19-16-48](https://github.com/user-attachments/assets/2f5c1a91-a339-4600-9142-87f789c1b852)
 
@@ -69,7 +70,7 @@ Enregistrement des modèles de catalogue sur le site d'administration
 
 on creer un  super user
 
-Création catalogue views : 
+# Création catalogue views : 
 
 ![email](https://github.com/user-attachments/assets/9ee2d792-c7cc-4a90-a2ec-322fb8c4e0a3)
 
@@ -77,7 +78,7 @@ Création catalogue views :
 ![urls](https://github.com/user-attachments/assets/51c94b64-3957-40be-9118-6ab2043c4ca6)
 
 
-creation de catalogue Tomplate :
+# creation de catalogue Tomplate :
 
 ![html](https://github.com/user-attachments/assets/9bf9248f-05d3-41e8-99b7-bb90f2e868b3)
 
