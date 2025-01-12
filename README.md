@@ -26,6 +26,13 @@ Tout d'abord, on a  installer Django et créer un environnement virtuel pour nos
 
  on a ajouter datatime filed  :
 
+
+ on ajoute database index : 
+
+ 
+ 
+ 
+
  
 
  
