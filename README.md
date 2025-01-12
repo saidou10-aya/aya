@@ -7,15 +7,36 @@ Tout d'abord, on a  installer Django et créer un environnement virtuel pour nos
 
 ![image](https://github.com/user-attachments/assets/6b023ce3-2b0c-4664-ad33-d1ade81b13a9)
 
-#  Création du projet Django : 
-Une fois Django installé, crée un nouveau projet et on  Accéder au répertoire du projet et Lancer le serveur de développement
-
-#  Création de l'application Django :
-Les projets Django sont composés de plusieurs applications on Crée une application pour gérer les fonctionnalités principales de nos site
+#  Création du first project  : 
 
 ![application instaler ](https://github.com/user-attachments/assets/7b71c615-8228-47a9-9b69-f45738f4bec1)
 
- # Création des modèles : 
- Les modèles représentent la structure de nos base de données. Dans l'application blog, on crée des modèles
+  apres on creer  bloc de application ,dans  ce bloc on appliquer data base migration 
+  
+ creation une application  
+ 
+ creation de poste modele ; on a ajouter data time filed
+
+
+ # Création poste  modèle : 
+ Le modèle représentent la structure de nos base de données. Dans l'application blog 
+
+ ![modeles](https://github.com/user-attachments/assets/2d3c69b9-351e-41cd-9205-9f7a73f70b95)
+
+ on a ajouter datatime filed  et data base index 
 
  
+ 
+
+  # Création de l'interface d'administration
+Django dispose d'une interface d'administration prête à l'emploi pour l'utiliser, on enregistrer nos modèle dans admin.py et on a créer un superutilisateur pour accéder à l'admin et  Lancer le serveur et se connecter à l'admin
+
+# Création des vues (views) :
+Les vues définissent la logique de l application , on crée une vue pour afficher tous les articles de blog.
+
+
+
+Création des URL et des templates:
+
+
+
