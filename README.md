@@ -29,6 +29,10 @@ Tout d'abord, on a  installer Django et créer un environnement virtuel pour nos
 
  on ajoute database index : 
 
+ ![data base](https://github.com/user-attachments/assets/fb8927fe-1dab-4684-8fde-0609b924cac1)
+
+ apres on a activer l'application  :
+
  
  
  
