@@ -52,6 +52,15 @@ Creating a superuser :
  
 ![photo_2025-01-12_19-16-48](https://github.com/user-attachments/assets/2f5c1a91-a339-4600-9142-87f789c1b852)
 
+
+# creation un projet enligne :
+
+  product catalogue modeles 
+Registering catalog models on the administration site
+
+
+
+
   
 
  
