@@ -55,7 +55,12 @@ Creating a superuser :
 
 # creation un projet enligne :
 
-  product catalogue modeles 
+![shop conf](https://github.com/user-attachments/assets/e84ff387-a4a6-490e-aa12-42d11df34259)
+
+
+  product catalogue modeles :
+
+  
 Registering catalog models on the administration site
 
 
