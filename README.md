@@ -17,6 +17,7 @@ Tout d'abord, on a  installer Django et créer un environnement virtuel pour nos
  
  creation de poste modele ; on a ajouter data time filed
 
+![modeles](https://github.com/user-attachments/assets/ee05c2ae-7545-4590-964d-3bc3d01ecb19)
 
  # Création poste  modèle : 
  Le modèle représentent la structure de nos base de données. Dans l'application blog 
