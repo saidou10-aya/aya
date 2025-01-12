@@ -65,6 +65,13 @@ Creating a superuser :
   
 Enregistrement des modèles de catalogue sur le site d'administration 
 
+![admin;py](https://github.com/user-attachments/assets/d6171932-98e6-4184-9859-2218ac296408)
+
+on creer un  super user
+Création catalogue views : 
+
+
+
 
 
   
