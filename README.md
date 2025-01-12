@@ -74,6 +74,14 @@ Création catalogue views :
 ![email](https://github.com/user-attachments/assets/9ee2d792-c7cc-4a90-a2ec-322fb8c4e0a3)
 
 
+![urls](https://github.com/user-attachments/assets/51c94b64-3957-40be-9118-6ab2043c4ca6)
+
+
+creation de catalogue Tomplate 
+
+
+
+
 
 
 
