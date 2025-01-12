@@ -37,9 +37,13 @@ Tout d'abord, on a  installer Django et créer un environnement virtuel pour nos
 
    ajouter statuts filed : 
 
-   
+   ![modeles](https://github.com/user-attachments/assets/4b420324-be32-49eb-a589-dca40561a17e)
+
   
-  et aussi many to one relation ship
+  ajout many-to-one relationship :
+
+
+  
 
  
  
