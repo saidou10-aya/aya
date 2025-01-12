@@ -13,3 +13,9 @@ Une fois Django installé, crée un nouveau projet et on  Accéder au répertoir
 #  Création de l'application Django :
 Les projets Django sont composés de plusieurs applications on Crée une application pour gérer les fonctionnalités principales de nos site
 
+![application instaler ](https://github.com/user-attachments/assets/7b71c615-8228-47a9-9b69-f45738f4bec1)
+
+ # Création des modèles : 
+ Les modèles représentent la structure de nos base de données. Dans l'application blog, on crée des modèles
+
+ 
