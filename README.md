@@ -68,7 +68,12 @@ Enregistrement des modèles de catalogue sur le site d'administration
 ![admin;py](https://github.com/user-attachments/assets/d6171932-98e6-4184-9859-2218ac296408)
 
 on creer un  super user
+
 Création catalogue views : 
+
+![email](https://github.com/user-attachments/assets/9ee2d792-c7cc-4a90-a2ec-322fb8c4e0a3)
+
+
 
 
 
