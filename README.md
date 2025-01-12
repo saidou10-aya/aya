@@ -24,20 +24,14 @@ Tout d'abord, on a  installer Django et créer un environnement virtuel pour nos
 
  ![modeles](https://github.com/user-attachments/assets/2d3c69b9-351e-41cd-9205-9f7a73f70b95)
 
- on a ajouter datatime filed  et data base index 
+ on a ajouter datatime filed  :
+
+ 
 
  
  
 
-  # Création de l'interface d'administration
-Django dispose d'une interface d'administration prête à l'emploi pour l'utiliser, on enregistrer nos modèle dans admin.py et on a créer un superutilisateur pour accéder à l'admin et  Lancer le serveur et se connecter à l'admin
-
-# Création des vues (views) :
-Les vues définissent la logique de l application , on crée une vue pour afficher tous les articles de blog.
-
-
-
-Création des URL et des templates:
+  
 
 
 
